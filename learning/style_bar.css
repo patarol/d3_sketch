@@ -1,0 +1,15 @@
+/* style for css bar chart */
+
+.bar {
+  fill: steelblue;
+  /* cursor: crosshair; */
+}
+
+.bar:hover {
+  fill: darkblue;
+  transition: all 0.5s ease-in-out;
+}
+
+.axis {
+  font-size: 12px;
+}
