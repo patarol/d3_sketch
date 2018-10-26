@@ -52,9 +52,15 @@ d3.tsv("https://raw.githubusercontent.com/patarol/d3_sketch/master/data/data.tsv
 				return Number(d.value);
 			})]);
 
+  svg.append("g")
+    .attr("class", "axis")
+    .attr("transform", "translate(0" + width + ")")
+    .call(d3.axisLeft());
+
+
   // x axis
 	svg.append("g")
-    .attr("class", "axis")
+    .attr("class", "x axis")
   	.attr("transform", "translate(0," + height + ")")
   	.call(d3.axisBottom(x));
   //
@@ -78,8 +84,8 @@ d3.tsv("https://raw.githubusercontent.com/patarol/d3_sketch/master/data/data.tsv
 
   // 4. Call the y axis in a group tag
   svg.append("g")
-      .attr("class", "axis")
-      .attr("transform", "translate(0" + 30 + ")")
+      .attr("class", "y axis")
+      .attr("transform", "translate(0" + width + ")")
       .call(d3.axisLeft(y)); // Create an axis component with d3.axisLeft
 
 	svg.selectAll(".bar")
