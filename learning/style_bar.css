@@ -1,15 +1,17 @@
 /* style for css bar chart */
 
+
 .bar {
-  fill: steelblue;
+  fill: hsl(207, 44%, 49%);
   /* cursor: crosshair; */
 }
 
 .bar:hover {
-  fill: darkblue;
-  transition: all 0.5s ease-in-out;
+  fill: hsl(240, 59%, 40%);
+  transition: all 0.2s ease-in-out;
 }
 
 .axis {
   font-size: 12px;
+  font-family: 'Oswald', sans-serif;
 }
