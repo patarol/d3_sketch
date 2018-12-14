@@ -21,7 +21,7 @@
     {"id": "Prediction", "group": 3},
     {"id": "Segmentation", "group": 3},
     {"id": "Classification", "group": 3},
-    {"id": "Big_Data", "group": 9},
+    {"id": "Big_Data", "group": 9}
   ],
   "links": [
     {"source": "Treligen", "target": "Tools", "value": 1},
