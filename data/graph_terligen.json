@@ -106,7 +106,6 @@
     {"source": "Problems", "target": "Classification", "value": 1},
     {"source": "Big_Data", "target": "Fantine", "value": 1},
     {"source": "Big_Data", "target": "Valjean", "value": 1},
-    {"source": "Fantine", "target": "Zephine", "value": 4},
     {"source": "Fantine", "target": "Valjean", "value": 9},
     {"source": "Mme.Thenardier", "target": "Fantine", "value": 2},
     {"source": "Mme.Thenardier", "target": "Valjean", "value": 7},
