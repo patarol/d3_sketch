@@ -9,7 +9,6 @@
     {"id": "Spark", "group": 12},
     {"id": "Hadoop", "group": 12},
     {"id": "AWS", "group": 12},
-
     {"id": "Techniques", "group": 2},
     {"id": "Text_Mining", "group": 21},
     {"id": "Boosting", "group": 21},
@@ -18,12 +17,10 @@
     {"id": "Naive_Bayes", "group": 21},
     {"id": "Logist_Regression", "group": 21},
     {"id": "K-Nearest_Neighbors", "group": 21},
-
     {"id": "Problems", "group": 3},
     {"id": "Prediction", "group": 31},
     {"id": "Segmentation", "group": 31},
     {"id": "Classification", "group": 31},
-
     {"id": "Big_Data", "group": 9},
     {"id": "Fantine", "group": 9},
     {"id": "Mme.Thenardier", "group": 4},
@@ -77,7 +74,6 @@
     {"id": "Toussaint", "group": 5},
     {"id": "Child1", "group": 10},
     {"id": "Child2", "group": 10},
-    {"id": "Brujon", "group": 4},
     {"id": "Mme.Hucheloup", "group": 8}
   ],
   "links": [
