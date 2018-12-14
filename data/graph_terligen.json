@@ -51,6 +51,6 @@
     {"source": "Problems", "target": "Segmentation", "value": 1},
     {"source": "Problems", "target": "Classification", "value": 1},
     {"source": "Big_Data", "target": "Tools", "value": 1},
-    {"source": "Big_Data", "target": "Techniques", "value": 1},
+    {"source": "Big_Data", "target": "Techniques", "value": 1}
   ]
 }
