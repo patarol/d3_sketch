@@ -76,7 +76,7 @@
     {"id": "Child2", "group": 10},
     {"id": "Mme.Hucheloup", "group": 8},
     {"id": "Valjean", "group": 11},
-    {"id": "Zephine", "group": 12}
+    {"id": "Zephine", "group": 11}
   ],
   "links": [
     {"source": "Treligen", "target": "Tools", "value": 1},
