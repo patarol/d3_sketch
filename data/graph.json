@@ -2,8 +2,6 @@
   "nodes": [
     {"id": "Techniques", "group": 1},
     {"id": "Napoleon", "group": 1},
-    {"id": "Mlle.Baptistine", "group": 1},
-    {"id": "Mme.Magloire", "group": 1},
     {"id": "Regression", "group": 1},
     {"id": "TextMining", "group": 1},
     {"id": "Champtercier", "group": 1},
@@ -80,9 +78,6 @@
   ],
   "links": [
     {"source": "Napoleon", "target": "Techniques", "value": 1},
-    {"source": "Mlle.Baptistine", "target": "Techniques", "value": 8},
-    {"source": "Mme.Magloire", "target": "Techniques", "value": 10},
-    {"source": "Mme.Magloire", "target": "Mlle.Baptistine", "value": 6},
     {"source": "Regression", "target": "Techniques", "value": 1},
     {"source": "TextMining", "target": "Techniques", "value": 1},
     {"source": "Champtercier", "target": "Techniques", "value": 1},
@@ -90,8 +85,6 @@
     {"source": "Boosting", "target": "Techniques", "value": 2},
     {"source": "TimeSeries", "target": "Techniques", "value": 1},
     {"source": "Treligen", "target": "Labarre", "value": 1},
-    {"source": "Treligen", "target": "Mme.Magloire", "value": 3},
-    {"source": "Treligen", "target": "Mlle.Baptistine", "value": 3},
     {"source": "Treligen", "target": "Techniques", "value": 5},
     {"source": "Marguerite", "target": "Treligen", "value": 1},
     {"source": "Mme.deR", "target": "Treligen", "value": 1},
