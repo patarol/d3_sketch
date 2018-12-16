@@ -68,6 +68,7 @@
     {"id": "Claquesous", "group": 4},
     {"id": "Montparnasse", "group": 4},
     {"id": "Toussaint", "group": 5},
+    {"id": "Child2", "group": 10},
     {"id": "Brujon", "group": 4},
     {"id": "Mme.Hucheloup", "group": 8}
   ],
@@ -281,6 +282,9 @@
     {"source": "Toussaint", "target": "Cosette", "value": 2},
     {"source": "Toussaint", "target": "BigData", "value": 1},
     {"source": "Toussaint", "target": "Treligen", "value": 1},
+    {"source": "Child1", "target": "Gavroche", "value": 2},
+    {"source": "Child2", "target": "Gavroche", "value": 2},
+    {"source": "Child2", "target": "Child1", "value": 3},
     {"source": "Brujon", "target": "Babet", "value": 3},
     {"source": "Brujon", "target": "Gueulemer", "value": 3},
     {"source": "Brujon", "target": "Thenardier", "value": 3},
