@@ -123,7 +123,6 @@
     {"source": "Cosette", "target": "Spark", "value": 1},
     {"source": "Cosette", "target": "Thenardier", "value": 1},
     {"source": "BigData", "target": "Treligen", "value": 17},
-    {"source": "BigData", "target": "Techniques", "value": 17},
     {"source": "BigData", "target": "Tools", "value": 5},
     {"source": "BigData", "target": "Thenardier", "value": 5},
     {"source": "BigData", "target": "Mme.Thenardier", "value": 1},
