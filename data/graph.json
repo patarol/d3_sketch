@@ -36,7 +36,7 @@
     {"id": "Cochepaille", "group": 2},
     {"id": "Pontmercy", "group": 4},
     {"id": "Boulatruelle", "group": 6},
-    {"id": "Eponine", "group": 4},
+    {"id": "Eponine", "group": 8},
     {"id": "Anzelma", "group": 4},
     {"id": "Woman2", "group": 5},
     {"id": "MotherInnocent", "group": 0},
@@ -64,12 +64,12 @@
     {"id": "MotherPlutarch", "group": 8},
     {"id": "Gueulemer", "group": 4},
     {"id": "Babet", "group": 4},
-    {"id": "Claquesous", "group": 4},
+    {"id": "Claquesous", "group": 8},
     {"id": "Montparnasse", "group": 4},
     {"id": "Toussaint", "group": 5},
     {"id": "Coding", "group": 8},
     {"id": "Programming", "group": 8},
-    {"id": "Brujon", "group": 4},
+    {"id": "Brujon", "group": 8},
     {"id": "Strategy", "group": 8}
   ],
   "links": [
