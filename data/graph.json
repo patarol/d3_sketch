@@ -270,6 +270,7 @@
     {"source": "Charts", "target": "BigData", "value": 1},
     {"source": "Charts", "target": "Variance", "value": 1},
     {"source": "Charts", "target": "NaturalLanguage", "value": 1},
+    {"source": "Catboost", "target": "BigData", "value": 1},
     {"source": "XGBoost", "target": "BigData", "value": 1},
     {"source": "XGBoost", "target": "Graph", "value": 2},
     {"source": "XGBoost", "target": "KMeans", "value": 2},
